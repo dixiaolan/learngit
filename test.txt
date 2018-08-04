@@ -6,4 +6,3 @@ kun add a new line
 lan add
 last line add by kunshao
 really last line haha
-我是dev分支新增的内容
